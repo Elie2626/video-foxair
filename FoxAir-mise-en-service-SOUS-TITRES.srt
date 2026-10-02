@@ -1,0 +1,104 @@
+1
+00:00:00,350 --> 00:00:02,079
+Votre FoxAir vient d'arriver !
+
+2
+00:00:02,079 --> 00:00:03,599
+Retirez le film de protection,
+
+3
+00:00:03,599 --> 00:00:06,250
+et découvrons ensemble sa mise en service.
+
+4
+00:00:06,550 --> 00:00:08,114
+Placez la machine à son emplacement,
+
+5
+00:00:08,114 --> 00:00:09,908
+sur ses roulettes, puis bloquez les freins
+
+6
+00:00:09,908 --> 00:00:11,600
+pour bien la stabiliser.
+
+7
+00:00:13,050 --> 00:00:14,817
+Raccordez le tuyau d'arrivée d'eau sur le
+
+8
+00:00:14,817 --> 00:00:15,928
+raccord de droite.
+
+9
+00:00:15,928 --> 00:00:18,650
+L'eau va alimenter le réservoir de la machine.
+
+10
+00:00:20,550 --> 00:00:22,667
+À l'arrière, les pads d'évaporation :
+
+11
+00:00:22,667 --> 00:00:24,024
+l'air chaud les traverse,
+
+12
+00:00:24,024 --> 00:00:25,272
+l'eau capte la chaleur,
+
+13
+00:00:25,272 --> 00:00:27,350
+et l'air ressort rafraîchi.
+
+14
+00:00:28,050 --> 00:00:29,860
+Repérez le bouton d'arrêt d'urgence.
+
+15
+00:00:29,860 --> 00:00:31,623
+En cas de problème, appuyez dessus :
+
+16
+00:00:31,623 --> 00:00:33,338
+il coupe immédiatement l'alimentation de
+
+17
+00:00:33,338 --> 00:00:34,550
+la machine.
+
+18
+00:00:35,550 --> 00:00:37,064
+Mettez la machine sous tension :
+
+19
+00:00:37,064 --> 00:00:38,479
+l'écran de contrôle s'allume,
+
+20
+00:00:38,479 --> 00:00:40,150
+et le Wi-Fi s'active !
+
+21
+00:00:42,950 --> 00:00:44,948
+Entrez l'adresse IP indiquée dans l'onglet
+
+22
+00:00:44,948 --> 00:00:46,352
+Wi-Fi sur votre téléphone,
+
+23
+00:00:46,352 --> 00:00:48,800
+et gérez toute la machine à distance.
+
+24
+00:00:50,650 --> 00:00:51,799
+La pompe s'amorce…
+
+25
+00:00:51,799 --> 00:00:53,157
+votre FoxAir est prêt !
+
+26
+00:00:53,157 --> 00:00:55,330
+La mise en service est terminée.
+
